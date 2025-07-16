@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 周子渲
+title: Zixuan Zhou
 
-# Name pronunciation (optional)
-name_pronunciation: Joe Dz Sh-w-an
+# # Name pronunciation (optional)
+# name_pronunciation: Joe Dz Sh-w-an
 
 # Full name (for SEO)
 first_name: Zixuan
@@ -162,11 +162,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
+    percent: 100
   - name: Portuguese
-    percent: 25
+    # percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
