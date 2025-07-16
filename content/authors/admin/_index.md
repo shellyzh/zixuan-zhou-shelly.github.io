@@ -75,7 +75,7 @@ education:
   - area: PhD Environmental Science, Policy, and Management
     institution: The Hong Kong University of Science and Technology
     date_start: 2022-09-01
-    date_end: 2026 summer (expected)
+    date_end: 2026-08-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
