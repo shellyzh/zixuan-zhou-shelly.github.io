@@ -3,7 +3,7 @@
 title: 周子渲
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dz-sh-w-an Joe
 
 # Full name (for SEO)
 first_name: Zixuan
@@ -11,7 +11,7 @@ last_name: ZHOU
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌎
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Climate Modeling Lab @ HKUST
+    url: https://cml.ust.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,22 +34,22 @@ profiles:
     url: 'mailto:zzhoubh@connect.ust.hk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/zhouzixuan621
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/shelly__zh?igsh=dHFuYjV2bjhidjh6&utm_source=qr
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/shellyzh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zhou-shelly/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=qNx-BaAAAAAJ&hl=en&inst=1381320739207392350
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-5159-2224
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - High-resolution Climate Modeling
+  - Compound hot and dry climate extremes
+  - Renewable Power
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there, I am a climate and energy systems researcher specializing in the nexus between climate change and renewable energy infrastructure. My expertise lies in high-resolution regional climate modeling, with a focus on quantifying the impacts of compound climate extremes (particularly heat-drought events) on power systems and urban energy demands. My research employs advanced computational methods to develop adaptation strategies for renewable energy systems vulnerable to climate change. 
