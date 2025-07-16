@@ -165,8 +165,8 @@ languages:
     percent: 80
   - name: Chinese
     percent: 100
-  - name: Portuguese
-    # percent: 25
+  - name: Cantonese
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -202,4 +202,12 @@ awards:
 
 ## About Me
 
-Hi there, I am a climate and energy systems researcher specializing in the nexus between climate change and renewable energy infrastructure. My expertise lies in high-resolution regional climate modeling, with a focus on quantifying the impacts of compound climate extremes (particularly heat-drought events) on power systems and urban energy demands. My research employs advanced computational methods to develop adaptation strategies for renewable energy systems vulnerable to climate change. 
+Hi there!
+I'm a climate and energy systems researcher working at the intersection of environmental science, economics, and energy systems. My research focuses on:
+
+High-resolution regional climate modeling
+Impacts of compound climate extremes (especially heat-drought events) on power systems
+Urban energy demand under changing climate conditions
+I'm passionate about helping build more resilient renewable energy infrastructure in the face of climate change.
+
+Always open to new collaborations and conversations! Feel free to reach out.
