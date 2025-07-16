@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zixuan Zhou
+title: Zixuan Zhou (周子渲)
 
 # # Name pronunciation (optional)
 # name_pronunciation: Joe Dz Sh-w-an
