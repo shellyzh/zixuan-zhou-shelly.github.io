@@ -80,9 +80,9 @@ education:
       - Supervisor: Professor Eun-Soon Im, Co-Supervisor: Professor Xiaoming Shi 
       - Awarded Fund: Hong Kong PhD Fellowship Scheme (Top 300 Among All Hong Kong Postgraduates) 
       - GPA: 4.3/4.3
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -94,17 +94,14 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Environmental Management and Technology
+    institution: The Hong Kong University of Science and Technology
+    date_start: 2018-09-01
+    date_end: 2022-07-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+       - Minor in Business Management & Minor in Information Technology
+       - GPA: 3.94/4.3
+       - Achievements: First Class Honor, Academic Achievement Medal (University Top 1% Graduates) 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
