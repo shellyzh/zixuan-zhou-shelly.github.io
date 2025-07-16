@@ -77,7 +77,9 @@ education:
     date_start: 2022-09-01
     date_end: 2026-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - Supervisor: Professor Eun-Soon Im, Co-Supervisor: Professor Xiaoming Shi 
+      - Awarded Fund: Hong Kong PhD Fellowship Scheme (Top 300 Among All Hong Kong Postgraduates) 
+      - GPA: 4.3/4.3
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
