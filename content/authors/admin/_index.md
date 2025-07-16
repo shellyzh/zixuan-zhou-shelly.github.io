@@ -72,10 +72,10 @@ interests:
 #       - GPA: 3.94/4.3
 #       - Achievements: First Class Honor, Academic Achievement Medal (University Top 1% Graduates) 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Environmental Science, Policy, and Management
+    institution: The Hong Kong University of Science and Technology
+    date_start: 2022-09-01
+    date_end: 2026 summer (expected)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
