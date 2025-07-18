@@ -187,8 +187,8 @@ Hi there!
 I'm a climate and energy systems researcher working at the intersection of environmental science, economics, and energy systems. My research focuses on:
 
 - High-resolution regional climate modeling
-- Impacts of compound climate extremes (especially heat-drought events) on power systems
-- Urban energy demand under changing climate conditions
+- Impacts of compound climate extremes (especially heat-drought events)
+- Resilience and vulnerability of renewable power system under changing climate conditions
 
 I'm passionate about helping build more resilient renewable energy infrastructure in the face of climate change.
 
