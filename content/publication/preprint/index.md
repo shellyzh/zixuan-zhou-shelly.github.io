@@ -11,7 +11,7 @@ publishDate: "2025-07-08T08:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Earth's Future"
@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Newsweek (https://www.newsweek.com/california-drought-still-climate-change-rainfall-1771800)'
+  caption: 'Image credit:  iStock / Getty Images Plus'
   focal_point: ""
   preview_only: false
 
