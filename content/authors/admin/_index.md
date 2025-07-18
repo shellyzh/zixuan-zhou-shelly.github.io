@@ -147,6 +147,8 @@ languages:
     percent: 100
   - name: Cantonese
     percent: 30
+  - name: Spanish
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
