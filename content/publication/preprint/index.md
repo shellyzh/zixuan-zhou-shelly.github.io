@@ -61,13 +61,13 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-<!-- 
+
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs. -->
 
-<!-- {{% callout note %}}
+{{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}} -->
+{{% /callout %}}
 
-<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
-<!-- **Full text** of this research is available {{% staticref "uploads/Zhou_EF2024.pdf" "newtab" %}}here{{% /staticref %}}. -->
+**Full text** of this research is available {{% staticref "uploads/Zhou_EF2024.pdf" "newtab" %}}here{{% /staticref %}}.
