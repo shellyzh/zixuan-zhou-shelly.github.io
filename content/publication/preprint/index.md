@@ -1,5 +1,5 @@
 ---
-title: "How does warming exacerbate dryness?"
+title: "Impact of Anthropogenic Warming on Future Unprecedented Droughts in California: Insights From Multiple Indices and Multi-Model Projections"
 authors:
 - admin
 date: "2024-01-17T00:00:00Z"
@@ -23,9 +23,7 @@ abstract: So-called hot droughts are seen as one of the very foreseeable extreme
 summary: California's mega-droughts highlight the role of temperature in creating "hot droughts." Our analysis shows unprecedented drought extremes emerge only when using indices that include temperature effects. Temperature-adjusted projections remain similar to historical patterns, while precipitation-only indices show no future changes. This confirms temperature's critical role—severe droughts will intensify with warming trends even without precipitation changes.
 
 tags:
-- CORDEX
-- Drought
-- Climate Change
+- DROUGHTS
 
 featured: true
 
