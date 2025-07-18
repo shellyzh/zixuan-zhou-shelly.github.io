@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zixuan Zhou (周子渲)
+title: Zixuan Zhou
 
 # # Name pronunciation (optional)
 # name_pronunciation: Joe Dz Sh-w-an
@@ -48,29 +48,9 @@ profiles:
 
 interests:
   - High-resolution Climate Modeling
-  - Compound hot and dry climate extremes
-  - Renewable Power
+  - Compound Hot-Dry Extremes
+  - Renewable Power System
 
-# education:
-#   - area: PhD Environmental Science, Policy, and Management
-#     institution: The Hong Kong University of Science and Technology
-#     date_start: 2022-09-01
-#     date_end: 2026 summer (expected)
-#     summary: |
-#       - Supervisor: Professor Eun-Soon Im, Co-Supervisor: Professor Xiaoming Shi 
-#       - Awarded Fund: Hong Kong PhD Fellowship Scheme (Top 300 Among All Hong Kong Postgraduates) 
-#       - GPA: 4.3/4.3
-#     button:
-#       text: 'Lab Page'
-#       url: 'https://cml.ust.hk/'
-#   - area: BSc Environmental Management and Technology
-#     institution: The Hong Kong University of Science and Technology
-#     date_start: 2018-09-01
-#     date_end: 2022-07-01
-#     summary: |
-#       - Minor in Business Management & Minor in Information Technology
-#       - GPA: 3.94/4.3
-#       - Achievements: First Class Honor, Academic Achievement Medal (University Top 1% Graduates) 
 education:
   - area: PhD Environmental Science, Policy, and Management
     institution: The Hong Kong University of Science and Technology
@@ -100,8 +80,8 @@ education:
     date_end: 2022-07-01
     summary: |
        - Minor in Business Management & Minor in Information Technology
-       - GPA: 3.94/4.3
        - Achievements: First Class Honor, Academic Achievement Medal (University Top 1% Graduates) 
+       - GPA: 3.94/4.3
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -135,11 +115,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-bar
-      - name: SQL
+      - name: Stata, R
         description: ''
         percent: 40
         icon: circle-stack
@@ -147,14 +127,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Emcee
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Parrots
         description: ''
         percent: 100
-        icon: cat
+        icon: bird
       - name: Photography
         description: ''
         percent: 80
@@ -173,10 +153,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: HKUST Redbird Academic Excellence Award for Continuing PhD Students 2023-2024
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2024-04-25'
+    awarder: HKUST
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
