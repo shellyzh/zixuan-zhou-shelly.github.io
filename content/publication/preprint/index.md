@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "How does warming exacerbate dryness?"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2024-01-17T00:00:00Z"
+doi: " https://doi.org/10.1029/2023EF003856"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-07-08T08:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,16 +14,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Earth's Future"
+publication_short: "EF"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: So-called hot droughts are seen as one of the very foreseeable extremes amid the faster-than-expected pace of global warming. In particular, the western part of North America has been pummeled by severe droughts due to a lack of precipitation as well as record-breaking hot temperatures. This study assesses the joint return period of drought severity and duration using the COordinated Regional Climate Downscaling EXperiment-COmmon Regional Experiment (CORDEX-CORE) simulations over the California domain. Six dynamically downscaled simulations with 25 km resolution are analyzed for the historical (1956–2005) and future (2050–2099) periods, whose warming sensitivities differ based on three global climate models (GCMs) driving two regional climate models (RCMs). Our focus is on estimating the joint probabilities of the drought duration and severity constructed from multiple drought indices such as the Palmer Drought Severity Index (PDSI) (with original temperature (PDSI) and its detrended counterpart (PDSI_detrended)) and Standardized Precipitation Index (SPI). Under the RCP8.5 scenario, an unprecedented level of droughts in terms of both duration and severity is likely to emerge only when the drought is characterized by PDSI. A comparison of PDSI and PDSI_detrended explicitly reveals that the occurrence of severe and prolonged droughts is mainly attributed to the warming trend of temperature. Both PDSI_detrended and SPI, which do not incorporate the warming effect explicitly, barely differentiate the joint distributions from the historical and future simulations. Unlike the PDSI based on water budget, the SPI, based on solely accumulated precipitation, shows a loosely coupled joint structure between the severity and duration of droughts, with marked differences in their marginal distributions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: California's mega-droughts highlight the role of temperature in creating "hot droughts." Our analysis shows unprecedented drought extremes emerge only when using indices that include temperature effects. Temperature-adjusted projections remain similar to historical patterns, while precipitation-only indices show no future changes. This confirms temperature's critical role—severe droughts will intensify with warming trends even without precipitation changes.
 
 tags:
-- Large Language Models
+- CORDEX
+- Drought
+- Climate Change
 
 featured: true
 
