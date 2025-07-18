@@ -28,8 +28,16 @@ tags:
 featured: true
 
 links:
-- name: Paper Link
-  url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003856
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -37,3 +45,5 @@ image:
   caption: 'Image credit:  iStock / Getty Images Plus'
   focal_point: ""
   preview_only: false
+
+---
