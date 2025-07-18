@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Fun Facts About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I was born in Chengdu, the hometown of pandas and hotpots. Naturally, I'm a spice lover!
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I also love animals, especially parrots, because they're incredibly smart and expressive. My passion for climate science actually grew from realizing how profoundly climate change affects wildlife and biodiversity.
+
+        My MBTI type falls between ENFJ and ENTJ—I thrive on connecting with people and taking the lead on meaningful projects. I'd love to get to know you, so please feel free to reach out and make friends! 😃
     design:
       columns: '1'
   - block: collection
