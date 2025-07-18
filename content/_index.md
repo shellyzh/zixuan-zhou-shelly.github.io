@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 Fun Facts About Me'
+      title: '🤔 Fun Facts About Me'
       subtitle: ''
       text: |-
         I was born in Chengdu, the hometown of pandas and hotpots. Naturally, I'm a spice lover!
